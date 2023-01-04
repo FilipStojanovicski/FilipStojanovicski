@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @FilipStojanovicski
-- 👀 I’m interested in Artificial Intelligence and Software Development
-- 🌱 I’m currently learning Backend Development: Flask, Django, Devops: Docker and Machine Learning: Word2Vec
-- 💞️ I’m looking to collaborate on Web Development and Artificial Intelligence Projects
+- 👀 I’m interested in Artificial Intelligence and Full Stack Web Development
+- 🌱 I’m currently learning:
+  - Backend Development: Express, Flask
+  - Frontend Development: React
+  - AI: Recommender Systems
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/filip-stojanovic-166382120)
 
 <!---
