@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @FilipStojanovicski
-- 👀 I’m interested in Artificial Intelligence and Full Stack Web Development
+- 👀 I’m interested in Artificial Intelligence, Full Stack Web Development and Dev Ops
 - 🌱 I’m currently learning:
   - Backend Development: Express, Flask
   - Frontend Development: React
-  - AI: Recommender Systems
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/filip-stojanovic-166382120)
 
 <!---
